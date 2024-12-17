@@ -69,7 +69,7 @@ body{
     background-color: rgb(255, 255, 255);
     font-size: 5px;
     padding: 30px;
-    display: flex;
+    display: flex; 
     flex: 1;
     flex-direction: row;
     
@@ -98,10 +98,10 @@ body{
     background-color:rgb(255, 255, 255);
 
     padding-right: 100px;
-    font-size: 30px;
+    font-size: 25px;
     display: flex;
     flex: 1;
-    flex-direction: column;
+    flex-direction: row;
     
 }
 
@@ -146,6 +146,7 @@ body{
 .bus{
     padding-right: 1100px;
     border-radius: 30px;
+    font-size: 20px;
 }
 
 .final{
@@ -157,5 +158,25 @@ body{
     display: flex;
     flex-direction: row;
     flex: 1;
-    justify-content: flex-start;
+    justify-content: flex-start; 
+}
+
+.contenido{
+    font-size: 17px;
+}
+
+.contenido1{
+    font-size: 17px;
+}
+
+.contenido2{
+    font-size: 12px;
+}
+
+.contenido3{
+    font-size: 14px;
+}
+
+.contenido4{
+    font-size: 15px;
 }
